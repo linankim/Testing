@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+}
+
+.nav {
+	background: rgb(130, 214, 158);
+	height: 200px;
+}
+
+.content {
+	background:pink;
+	height: calc(100vh - 200px);
+}
